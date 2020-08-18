@@ -1,0 +1,4 @@
+This program is using List ADT and Graph ADT to implement BFS algorithm to find
+a shortest path in the graph.
+Makefile would automaticlally create excutable file by make.
+The usage is FindPath <input file> <output file>
